@@ -1,0 +1,16 @@
+{
+  "name": "hw6-express-mysql",
+  "version": "1.0.0",
+  "description": "ДЗ 6: Express сервер + MySQL (mysql2)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
